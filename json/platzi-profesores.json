@@ -1,0 +1,47 @@
+[
+  {
+    "plataforma": "platzi",
+    "nombre": "Freddy Vega",
+    "twitter": "@freddier",
+    "twitter_link": "//twitter.com/freddier",
+    "label": "CEO  en Platzi ",
+    "figure": "https://static.platzi.com/media/teachers/freddy1.jpg",
+    "cursos": [
+      "Curso Gratis de Programaci&#xF3;n B&#xE1;sica"
+    ]
+  },
+  {
+    "plataforma": "platzi",
+    "nombre": "Leonidas Esteban",
+    "twitter": "@LeonidasEsteban",
+    "twitter_link": "//twitter.com/LeonidasEsteban",
+    "label": "Frontend  en Platzi ",
+    "figure": "https://static.platzi.com/media/teachers/LeonidasEsteban.jpg",
+    "cursos": [
+      "Curso de Desarrollo Web Online ",
+      "Curso de Responsive Design"
+    ]
+  },
+  {
+    "plataforma": "platzi",
+    "nombre": "Miguel Nieva",
+    "twitter": "@mikenieva",
+    "twitter_link": "//twitter.com/mikenieva",
+    "label": "Founder + Growth Hacker  en BOLD Partners ",
+    "figure": "https://static.platzi.com/media/teachers/mike1.jpg",
+    "cursos": [
+      "Curso profesional de Git y GitHub"
+    ]
+  },
+  {
+    "plataforma": "platzi",
+    "nombre": "Hayd&#xE9; Mart&#xED;nez",
+    "twitter": "@haydemtzl",
+    "twitter_link": "//twitter.com/haydemtzl",
+    "label": "Machine Learning Lead, Software Engineer, and Public Speaker  en Rever ",
+    "figure": "https://static.platzi.com/media/teachers/hayde_machine_learning.jpg",
+    "cursos": [
+      "Curso de Introducci&#xF3;n a Machine Learning"
+    ]
+  }
+]

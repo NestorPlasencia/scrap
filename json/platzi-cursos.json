@@ -1,0 +1,1219 @@
+[
+  {
+    "plataforma": "platzi",
+    "nombre": "Curso de Introducci&#xF3;n a Machine Learning",
+    "link": "/clases/ia/",
+    "figure": "https://static.platzi.com/media/achievements/badge-INTRO-machine-learning-.png",
+    "url_cursos": "https://platzi.com/cursos/ia",
+    "url_clases": "https://platzi.com/clases/ia",
+    "carreras": [
+      "Carrera de Inteligencia Artificial"
+    ],
+    "description": "Entiende qu&#xE9; es la Inteligencia Artificial y las partes que la componen, aprende qu&#xE9; es machine learning,  comienza a utilizar TensorFlow y escribe tus primeros algoritmos de machine learning con Python.\n",
+    "temario": [],
+    "teachers": [
+      {
+        "plataforma": "platzi",
+        "nombre": "Hayd&#xE9; Mart&#xED;nez",
+        "twitter": "@haydemtzl",
+        "twitter_link": "//twitter.com/haydemtzl",
+        "label": "Machine Learning Lead, Software Engineer, and Public Speaker  en Rever ",
+        "figure": "https://static.platzi.com/media/teachers/hayde_machine_learning.jpg",
+        "cursos": [
+          "Curso de Introducci&#xF3;n a Machine Learning"
+        ]
+      }
+    ]
+  },
+  {
+    "plataforma": "platzi",
+    "nombre": "Curso Gratis de Programaci&#xF3;n B&#xE1;sica",
+    "link": "/clases/programacion-basica/",
+    "figure": "https://static.platzi.com/media/achievements/programacion-basica2x.png",
+    "url_cursos": "https://platzi.com/cursos/programacion-basica",
+    "url_clases": "https://platzi.com/clases/programacion-basica",
+    "carreras": [
+      "Arquitecto Frontend",
+      "Apple Fullstack Developer",
+      "Backend Profesional",
+      "Fundamentos B&#xE1;sicos",
+      "Google Fullstack Developer"
+    ],
+    "description": "Programa desde cero, domina Javascript, entiende HTML y aprende de algoritmos. <strong>S&#xED;, desde cero</strong>. Entender&#xE1;s la l&#xF3;gica del c&#xF3;digo, c&#xF3;mo piensan los programadores y c&#xF3;mo programar juegos, proyectos y hasta robots y electr&#xF3;nica. Aprender a programar no es f&#xE1;cil, pero Platzi lo hace efectivo. ",
+    "video": "https://www.youtube.com/embed/MI_VRF5Vnfw?showinfo=0&rel=0",
+    "teachers": [
+      {
+        "plataforma": "platzi",
+        "nombre": "Freddy Vega",
+        "twitter": "@freddier",
+        "twitter_link": "//twitter.com/freddier",
+        "label": "CEO  en Platzi ",
+        "figure": "https://static.platzi.com/media/teachers/freddy1.jpg",
+        "cursos": [
+          "Curso Gratis de Programaci&#xF3;n B&#xE1;sica"
+        ]
+      }
+    ],
+    "temario": [
+      {
+        "titulo": "Empieza por acá",
+        "temas": [
+          {
+            "titulo": "Mi primera línea de código",
+            "tipo": "Video",
+            "instructor": "John Freddy Vega",
+            "tiempo": "Lo ves en 4 minutos"
+          }
+        ]
+      },
+      {
+        "titulo": "Fundamentos de programación",
+        "temas": [
+          {
+            "titulo": "¿Qué es HTML/CSS/JS?",
+            "tipo": "Video",
+            "instructor": "John Freddy Vega",
+            "tiempo": "Lo ves en 10 minutos"
+          },
+          {
+            "titulo": "JavaScript no es Java",
+            "tipo": "Video",
+            "instructor": "John Freddy Vega",
+            "tiempo": "Lo ves en 1 minuto"
+          },
+          {
+            "titulo": "Primeros pasos en el navegador con alert",
+            "tipo": "Video",
+            "instructor": "John Freddy Vega",
+            "tiempo": "Lo ves en 8 minutos"
+          },
+          {
+            "titulo": "HTML, CSS, JavaScript de verdad",
+            "tipo": "Video",
+            "instructor": "John Freddy Vega",
+            "tiempo": "Lo ves en 27 minutos"
+          },
+          {
+            "titulo": "Los apuntes de Freddy en PDF",
+            "tipo": "Lectura",
+            "instructor": "John Freddy Vega",
+            "tiempo": "Lo lees en 1 minuto"
+          }
+        ]
+      },
+      {
+        "titulo": "Primer proyecto: Peso en otro planeta",
+        "temas": [
+          {
+            "titulo": "Peso en otro planeta",
+            "tipo": "Video",
+            "instructor": "John Freddy Vega",
+            "tiempo": "Lo ves en 10 minutos"
+          },
+          {
+            "titulo": "Obteniendo datos del usuario",
+            "tipo": "Video",
+            "instructor": "John Freddy Vega",
+            "tiempo": "Lo ves en 9 minutos"
+          },
+          {
+            "titulo": "Flujo y condicionales",
+            "tipo": "Video",
+            "instructor": "John Freddy Vega",
+            "tiempo": "Lo ves en 21 minutos"
+          }
+        ]
+      },
+      {
+        "titulo": "Segundo proyecto: Dibujando con Canvas",
+        "temas": [
+          {
+            "titulo": "El DOM: nuestro lugar de trabajo en la web",
+            "tipo": "Video",
+            "instructor": "John Freddy Vega",
+            "tiempo": "Lo ves en 8 minutos"
+          },
+          {
+            "titulo": "Cómo funcionan Window y Document",
+            "tipo": "Video",
+            "instructor": "John Freddy Vega",
+            "tiempo": "Lo ves en 17 minutos"
+          },
+          {
+            "titulo": "Dibujando en el DOM",
+            "tipo": "Video",
+            "instructor": "John Freddy Vega",
+            "tiempo": "Lo ves en 20 minutos"
+          },
+          {
+            "titulo": "Funciones en JavaScript",
+            "tipo": "Video",
+            "instructor": "John Freddy Vega",
+            "tiempo": "Lo ves en 6 minutos"
+          },
+          {
+            "titulo": "Ciclos while y for en JavaScript",
+            "tipo": "Video",
+            "instructor": "John Freddy Vega",
+            "tiempo": "Lo ves en 21 minutos"
+          },
+          {
+            "titulo": "Eventos y Formularios en HTML y JavaScript ",
+            "tipo": "Video",
+            "instructor": "John Freddy Vega",
+            "tiempo": "Lo ves en 38 minutos"
+          },
+          {
+            "titulo": "Detectar eventos del teclado con JavaScript",
+            "tipo": "Video",
+            "instructor": "John Freddy Vega",
+            "tiempo": "Lo ves en 38 minutos"
+          },
+          {
+            "titulo": "Dibujar en canvas con las flechas del teclado",
+            "tipo": "Video",
+            "instructor": "John Freddy Vega",
+            "tiempo": "Lo ves en 17 minutos"
+          }
+        ]
+      },
+      {
+        "titulo": "Tercer proyecto: Villa platzi",
+        "temas": [
+          {
+            "titulo": "Funciones matemáticas y números aleatorios en JavaScript ",
+            "tipo": "Video",
+            "instructor": "John Freddy Vega",
+            "tiempo": "Lo ves en 24 minutos"
+          },
+          {
+            "titulo": "Uso y carga de imágenes en Canvas ",
+            "tipo": "Video",
+            "instructor": "John Freddy Vega",
+            "tiempo": "Lo ves en 41 minutos"
+          }
+        ]
+      },
+      {
+        "titulo": "Cuarto proyecto: Pakimanes",
+        "temas": [
+          {
+            "titulo": "División, módulo y residuo en JavaScript",
+            "tipo": "Video",
+            "instructor": "John Freddy Vega",
+            "tiempo": "Lo ves en 20 minutos"
+          },
+          {
+            "titulo": "Clases y Arrays en JavaScript",
+            "tipo": "Video",
+            "instructor": "John Freddy Vega",
+            "tiempo": "Lo ves en 45 minutos"
+          }
+        ]
+      },
+      {
+        "titulo": "Quinto proyecto: Cajero automático",
+        "temas": [
+          {
+            "titulo": "Diagrama de Flujo del Cajero Automático",
+            "tipo": "Video",
+            "instructor": "John Freddy Vega",
+            "tiempo": "Lo ves en 30 minutos"
+          },
+          {
+            "titulo": "Implementación del Cajero Automático",
+            "tipo": "Video",
+            "instructor": "John Freddy Vega",
+            "tiempo": "Lo ves en 41 minutos"
+          }
+        ]
+      },
+      {
+        "titulo": "Sexto proyecto: Cliente/Servidor",
+        "temas": [
+          {
+            "titulo": "Modelo Cliente/Servidor",
+            "tipo": "Video",
+            "instructor": "John Freddy Vega",
+            "tiempo": "Lo ves en 16 minutos"
+          },
+          {
+            "titulo": "Primer servidor web con express",
+            "tipo": "Video",
+            "instructor": "John Freddy Vega",
+            "tiempo": "Lo ves en 28 minutos"
+          }
+        ]
+      },
+      {
+        "titulo": "Programación de Hardware y Electrónica con Arduino",
+        "temas": [
+          {
+            "titulo": "¿Cómo funciona un circuito electrónico?",
+            "tipo": "Video",
+            "instructor": "John Freddy Vega",
+            "tiempo": "Lo ves en 2 minutos"
+          },
+          {
+            "titulo": "¿Cómo programar un Arduino?",
+            "tipo": "Video",
+            "instructor": "John Freddy Vega",
+            "tiempo": "Lo ves en 34 minutos"
+          },
+          {
+            "titulo": "Programación de circuitos con C, Arduino y Sketch",
+            "tipo": "Video",
+            "instructor": "John Freddy Vega",
+            "tiempo": "Lo ves en 16 minutos"
+          },
+          {
+            "titulo": "Cómo programar un Arduino con Javascript y Node",
+            "tipo": "Video",
+            "instructor": "John Freddy Vega",
+            "tiempo": "Lo ves en 20 minutos"
+          },
+          {
+            "titulo": "Construye un Robot con JavaScript",
+            "tipo": "Video",
+            "instructor": "John Freddy Vega",
+            "tiempo": "Lo ves en 10 minutos"
+          },
+          {
+            "titulo": "Robot para riego de plantas en Arduino, Javascript y Node",
+            "tipo": "Video",
+            "instructor": "John Freddy Vega",
+            "tiempo": "Lo ves en 27 minutos"
+          }
+        ]
+      },
+      {
+        "titulo": "Materiales de apoyo",
+        "temas": [
+          {
+            "titulo": "Las mejores notas de los estudiantes",
+            "tipo": "Lectura",
+            "instructor": "John Freddy Vega",
+            "tiempo": "Lo lees en 1 minuto"
+          },
+          {
+            "titulo": "¿Qué lenguaje de programación aprender primero?",
+            "tipo": "Lectura",
+            "instructor": "Uriel Ram&#xED;rez",
+            "tiempo": "Lo lees en 4 minutos"
+          },
+          {
+            "titulo": "La Web con Visión Profesional",
+            "tipo": "Lectura",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo lees en 4 minutos"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "plataforma": "platzi",
+    "nombre": "Curso profesional de Git y GitHub",
+    "link": "/clases/git-github/",
+    "figure": "https://static.platzi.com/media/achievements/git-github2x.png",
+    "url_cursos": "https://platzi.com/cursos/git-github",
+    "url_clases": "https://platzi.com/clases/git-github",
+    "carreras": [
+      "Arquitecto Frontend",
+      "Apple Fullstack Developer",
+      "Backend Profesional",
+      "Google Fullstack Developer"
+    ],
+    "description": "Entiende e implementa Git y Github en tu flujo de trabajo. Son el est&#xE1;ndar de la industria para control de versiones de c&#xF3;digo y tus proyectos. De cero a avanzado. ",
+    "video": "https://www.youtube.com/embed/HB6MwMs2YYc?showinfo=0&rel=0",
+    "teachers": [
+      {
+        "plataforma": "platzi",
+        "nombre": "Miguel Nieva",
+        "twitter": "@mikenieva",
+        "twitter_link": "//twitter.com/mikenieva",
+        "label": "Founder + Growth Hacker  en BOLD Partners ",
+        "figure": "https://static.platzi.com/media/teachers/mike1.jpg",
+        "cursos": [
+          "Curso profesional de Git y GitHub"
+        ]
+      }
+    ],
+    "temario": [
+      {
+        "titulo": "Bienvenidos",
+        "temas": [
+          {
+            "titulo": "Requisitos del curso",
+            "tipo": "Lectura",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo lees en 1 minuto"
+          }
+        ]
+      },
+      {
+        "titulo": "Fundamentos",
+        "temas": [
+          {
+            "titulo": "Glosario",
+            "tipo": "Lectura",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo lees en 9 minutos"
+          }
+        ]
+      },
+      {
+        "titulo": "Instalación y Conceptos Básicos",
+        "temas": [
+          {
+            "titulo": "Bienvenido al curso",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 4 minutos"
+          },
+          {
+            "titulo": "Instalación de git",
+            "tipo": "Lectura",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo lees en 2 minutos"
+          },
+          {
+            "titulo": "Git en el 2016",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 65 minutos"
+          },
+          {
+            "titulo": "Introducción a los sistemas control de versiones",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 12 minutos"
+          },
+          {
+            "titulo": "Introducción a Git",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 4 minutos"
+          },
+          {
+            "titulo": "Arquitectura de Arbol ",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 3 minutos"
+          },
+          {
+            "titulo": "Instalación ",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 8 minutos"
+          },
+          {
+            "titulo": "Git Workflow",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 22 minutos"
+          },
+          {
+            "titulo": "Git reset",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 22 minutos"
+          },
+          {
+            "titulo": "Analizando un commit",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 9 minutos"
+          }
+        ]
+      },
+      {
+        "titulo": "Navegación entre commits",
+        "temas": [
+          {
+            "titulo": "La importancia de proponer",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 7 minutos"
+          },
+          {
+            "titulo": "Ramas",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 9 minutos"
+          },
+          {
+            "titulo": "Fusiones en git",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 10 minutos"
+          },
+          {
+            "titulo": "Proyecto con líneas de tiempo alternas",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 71 minutos"
+          },
+          {
+            "titulo": "Head pointer + Git log",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 38 minutos"
+          }
+        ]
+      },
+      {
+        "titulo": "Workflows y repositorios remotos",
+        "temas": [
+          {
+            "titulo": "Workflows",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 40 minutos"
+          },
+          {
+            "titulo": "Repositorios personales",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 42 minutos"
+          },
+          {
+            "titulo": "Repositorios remotos (forked)",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 34 minutos"
+          }
+        ]
+      },
+      {
+        "titulo": "Project Management con Github",
+        "temas": [
+          {
+            "titulo": "Gestión de proyectos en Git: ¿Cómo hacerlo?",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 37 minutos"
+          },
+          {
+            "titulo": "Administración de un proyecto en Github",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 20 minutos"
+          },
+          {
+            "titulo": "Usando Issues y Milestones de Github",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 18 minutos"
+          },
+          {
+            "titulo": "Cómo manejar un pull request",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 34 minutos"
+          }
+        ]
+      },
+      {
+        "titulo": "Push to deploy en Amazon Web Services",
+        "temas": [
+          {
+            "titulo": "Tipos de ambiente de trabajo",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 34 minutos"
+          },
+          {
+            "titulo": "Deployment",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 31 minutos"
+          },
+          {
+            "titulo": "Amazon Web Services",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 32 minutos"
+          }
+        ]
+      },
+      {
+        "titulo": "Workflow dinámico en equipos.",
+        "temas": [
+          {
+            "titulo": "Deployment en Web Hosting",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 38 minutos"
+          },
+          {
+            "titulo": "Workflow dinámico en equipos",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 31 minutos"
+          },
+          {
+            "titulo": "Workflow dinámico en equipos (últimos pasos)",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 38 minutos"
+          },
+          {
+            "titulo": "Github y AWS en conjunto",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 42 minutos"
+          }
+        ]
+      },
+      {
+        "titulo": "Conceptos avanzados",
+        "temas": [
+          {
+            "titulo": "Bare repositories",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 27 minutos"
+          },
+          {
+            "titulo": "Git Tags y Ecosistema de proyectos en GitHub",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 26 minutos"
+          },
+          {
+            "titulo": "Git Extras",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 6 minutos"
+          },
+          {
+            "titulo": "GitHub for Mac",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 8 minutos"
+          },
+          {
+            "titulo": "GitHub For Windows",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 10 minutos"
+          },
+          {
+            "titulo": "Zenhub",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 11 minutos"
+          }
+        ]
+      },
+      {
+        "titulo": "Gitlab",
+        "temas": [
+          {
+            "titulo": "Gitlab",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 16 minutos"
+          }
+        ]
+      },
+      {
+        "titulo": "Desafios",
+        "temas": [
+          {
+            "titulo": "Desafio 1: Crear un blog en Github Pages",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 2 minutos"
+          },
+          {
+            "titulo": "Desafio 2: Blog Universitario. Local + GitHub",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 2 minutos"
+          },
+          {
+            "titulo": "Desafio 3: Blog Universitario. Deployment Automático",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 1 minuto"
+          }
+        ]
+      },
+      {
+        "titulo": "Sesiones en Vivo",
+        "temas": [
+          {
+            "titulo": "Stream 1: Resolviendo el primer desafío",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 37 minutos"
+          }
+        ]
+      },
+      {
+        "titulo": "Conclusiones",
+        "temas": [
+          {
+            "titulo": "Cierre del curso",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 1 minuto"
+          },
+          {
+            "titulo": "Fin del curso. ¿Qué sigue?",
+            "tipo": "Lectura",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo lees en 1 minuto"
+          }
+        ]
+      },
+      {
+        "titulo": "Contenido complementario",
+        "temas": [
+          {
+            "titulo": "Git Ignore",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 6 minutos"
+          },
+          {
+            "titulo": "Git Diff: Comparando Commits",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 4 minutos"
+          },
+          {
+            "titulo": "Git Stash",
+            "tipo": "Video",
+            "instructor": "Miguel Nieva",
+            "tiempo": "Lo ves en 6 minutos"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "plataforma": "platzi",
+    "nombre": "Curso de Desarrollo Web Online ",
+    "link": "/clases/html5-css3/",
+    "figure": "https://static.platzi.com/media/achievements/badge-html-y-css-para-mails.png",
+    "url_cursos": "https://platzi.com/cursos/html5-css3",
+    "url_clases": "https://platzi.com/clases/html5-css3",
+    "carreras": [
+      "Arquitecto Frontend"
+    ],
+    "description": "Aprende desde cero a crear y maquetar sitios web. Con HTML5 y CSS3 crea la p&#xE1;gina web de tu producto e inicia tu carrera para ser un Frontend profesional.",
+    "video": "https://www.youtube.com/embed/lCXXgcMVRw0?showinfo=0&rel=0",
+    "teachers": [
+      {
+        "plataforma": "platzi",
+        "nombre": "Leonidas Esteban",
+        "twitter": "@LeonidasEsteban",
+        "twitter_link": "//twitter.com/LeonidasEsteban",
+        "label": "Frontend  en Platzi ",
+        "figure": "https://static.platzi.com/media/teachers/LeonidasEsteban.jpg",
+        "cursos": [
+          "Curso de Desarrollo Web Online "
+        ]
+      }
+    ],
+    "temario": [
+      {
+        "titulo": "Bienvenido al curso",
+        "temas": []
+      },
+      {
+        "titulo": "Materiales",
+        "temas": [
+          {
+            "titulo": "Descarga el código del proyecto",
+            "tipo": "Lectura",
+            "instructor": "Uriel Ram&#xED;rez",
+            "tiempo": "Lo lees en 1 minuto"
+          }
+        ]
+      },
+      {
+        "titulo": "Introducción y conceptos básicos",
+        "temas": [
+          {
+            "titulo": "Bienvenidos al curso de desarrollo web online",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": ""
+          },
+          {
+            "titulo": "Introducción al desarrollo web",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 7 minutos"
+          },
+          {
+            "titulo": "¿Qué herramientas necesito para desarrollar?",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 2 minutos"
+          },
+          {
+            "titulo": "HTML y su estructura",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 3 minutos"
+          },
+          {
+            "titulo": "Etiquetas, atributos y valores",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 4 minutos"
+          }
+        ]
+      },
+      {
+        "titulo": "HTML",
+        "temas": [
+          {
+            "titulo": "Definiendo la estructura de nuestro sitio web",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 32 minutos"
+          },
+          {
+            "titulo": "Agregando imagénes al sitio",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 6 minutos"
+          },
+          {
+            "titulo": "Agregando navegación interna",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 5 minutos"
+          },
+          {
+            "titulo": "Agregando estilos a nuestro HTML",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 5 minutos"
+          }
+        ]
+      },
+      {
+        "titulo": "CSS",
+        "temas": [
+          {
+            "titulo": "Selectores de CSS",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 12 minutos"
+          },
+          {
+            "titulo": "Agregando clases a nuestros elementos HTML",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 2 minutos"
+          },
+          {
+            "titulo": "Backgrounds, colores y tamaños de fuente",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 12 minutos"
+          },
+          {
+            "titulo": "Google Fonts",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 13 minutos"
+          },
+          {
+            "titulo": "Display block e inline-block",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 9 minutos"
+          },
+          {
+            "titulo": "Entendiendo el modelo de caja",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 9 minutos"
+          },
+          {
+            "titulo": "Aplicando el modelo de caja a nuestro proyecto",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 15 minutos"
+          },
+          {
+            "titulo": "Múltiples clases para una misma etiqueta",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 4 minutos"
+          },
+          {
+            "titulo": "Flotando nuestros elementos",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 13 minutos"
+          },
+          {
+            "titulo": "Positions",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 10 minutos"
+          },
+          {
+            "titulo": "Bordes redondeados",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 5 minutos"
+          }
+        ]
+      },
+      {
+        "titulo": "Navegación, formularios, tablas y Flexbox",
+        "temas": [
+          {
+            "titulo": "Agregando un footer a nuestro sitio",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 11 minutos"
+          },
+          {
+            "titulo": "Hacer un formulario de contacto",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 20 minutos"
+          },
+          {
+            "titulo": "Usar Flexbox en CSS",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 26 minutos"
+          },
+          {
+            "titulo": "Enlazar a páginas internas",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 4 minutos"
+          },
+          {
+            "titulo": "Crear tablas en nuestro sitio",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 8 minutos"
+          },
+          {
+            "titulo": "Pseudoelementos y entidades",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 5 minutos"
+          },
+          {
+            "titulo": "Puliendo Detalles",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 33 minutos"
+          },
+          {
+            "titulo": "Deploy a Github Pages",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 9 minutos"
+          }
+        ]
+      },
+      {
+        "titulo": "Conclusiones",
+        "temas": [
+          {
+            "titulo": "Cierre del curso",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 1 minuto"
+          },
+          {
+            "titulo": "Desafio 1:  Pasar Imagenes a HTML y CSS",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 3 minutos"
+          },
+          {
+            "titulo": "Desafio 2: Logra fijar el footer en la parte de abajo",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 1 minuto"
+          },
+          {
+            "titulo": "Desafio 3: Hacer transiciones de hover",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 2 minutos"
+          },
+          {
+            "titulo": "Desafio 4: Centrar un elemento horizontal y verticalmente",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": ""
+          }
+        ]
+      },
+      {
+        "titulo": "Complementos del curso",
+        "temas": [
+          {
+            "titulo": "Transiciones y transformaciones con CSS",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 19 minutos"
+          },
+          {
+            "titulo": "Animaciones avanzadas con Hover",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 8 minutos"
+          }
+        ]
+      },
+      {
+        "titulo": "Sesiones en Vivo",
+        "temas": [
+          {
+            "titulo": "Stream 1: Resolviendo el primer desafío y dudas",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 65 minutos"
+          },
+          {
+            "titulo": "Stream 2: Resolviendo el primer desafío (Parte 2) ",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 53 minutos"
+          },
+          {
+            "titulo": "Stream 3: Resolviendo el segundo reto",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 61 minutos"
+          },
+          {
+            "titulo": "Stream 5: Resolviendo el último desafio ",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 58 minutos"
+          },
+          {
+            "titulo": "Stream 4: Resolviendo el tercer desafio ",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 57 minutos"
+          },
+          {
+            "titulo": "Crea tu propio parallax",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 58 minutos"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "plataforma": "platzi",
+    "nombre": "Curso de Responsive Design",
+    "link": "/clases/responsive-design/",
+    "figure": "https://static.platzi.com/media/achievements/badge-responsive-design.png",
+    "url_cursos": "https://platzi.com/cursos/responsive-design",
+    "url_clases": "https://platzi.com/clases/responsive-design",
+    "carreras": [
+      "Arquitecto Frontend"
+    ],
+    "description": "Dise&#xF1;a y maqueta aplicaciones web con Responsive Design. Adapta tus sitios para que funcionen en cualquier pantalla, dispositivo y resoluci&#xF3;n con HTML5 y CSS3. ",
+    "temario": [
+      {
+        "titulo": "Bienvenido al curso",
+        "temas": []
+      },
+      {
+        "titulo": "Materiales",
+        "temas": [
+          {
+            "titulo": "Descarga el código del proyecto",
+            "tipo": "Lectura",
+            "instructor": "Uriel Ram&#xED;rez",
+            "tiempo": "Lo lees en 1 minuto"
+          }
+        ]
+      },
+      {
+        "titulo": "Introducción y conceptos básicos",
+        "temas": [
+          {
+            "titulo": "Bienvenidos al curso de responsive design",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": ""
+          },
+          {
+            "titulo": "¿Qué es responsive design?",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 17 minutos"
+          },
+          {
+            "titulo": "Presentación del proyecto",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 2 minutos"
+          }
+        ]
+      },
+      {
+        "titulo": "Construyendo nuestro proyecto",
+        "temas": [
+          {
+            "titulo": "Tipos y formas de agregar media queries",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 7 minutos"
+          },
+          {
+            "titulo": "Adaptando nuestro proyecto para Tablets",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 28 minutos"
+          },
+          {
+            "titulo": "Adaptando nuestro proyecto para dispositivos móviles",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 37 minutos"
+          },
+          {
+            "titulo": "Utilizando el patrón off-canvas en el menú superior",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 29 minutos"
+          },
+          {
+            "titulo": "Corrigiendo resoluciones con meta-viewport",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 6 minutos"
+          },
+          {
+            "titulo": "Cómo utilizar media queries con JavaScript",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 13 minutos"
+          },
+          {
+            "titulo": "Optimizando la carga de imágenes con lazy loading",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 6 minutos"
+          },
+          {
+            "titulo": "Agregando videos de manera responsive",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 10 minutos"
+          },
+          {
+            "titulo": "Soportando múltiples resoluciones de pantalla",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 15 minutos"
+          },
+          {
+            "titulo": "Construyendo tablas responsive",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 10 minutos"
+          },
+          {
+            "titulo": "Testeando nuestro sitio con Remote Debugging",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 7 minutos"
+          },
+          {
+            "titulo": "Añadiendo gestos touch a nuestro menú con HammerJS",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 13 minutos"
+          },
+          {
+            "titulo": "Refinando detalles",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 24 minutos"
+          },
+          {
+            "titulo": "Deploy to Github Pages",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 5 minutos"
+          },
+          {
+            "titulo": "Optimizando la carga del sitio",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 33 minutos"
+          }
+        ]
+      },
+      {
+        "titulo": "Conclusiones",
+        "temas": [
+          {
+            "titulo": "Cierre del curso",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": ""
+          },
+          {
+            "titulo": "Desafio 1:  Mezclas de transiciones con responsive",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": ""
+          },
+          {
+            "titulo": "Desafío 2:  Hacer una transición al cargar las imagenes con bLazy",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 2 minutos"
+          }
+        ]
+      },
+      {
+        "titulo": "Sesiones en Vivo",
+        "temas": [
+          {
+            "titulo": "Stream 1: Resolviendo el primer desafío",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 60 minutos"
+          },
+          {
+            "titulo": "Stream 2: Resolviendo el segundo desafío ",
+            "tipo": "Video",
+            "instructor": "Leonidas Esteban Gonzalez",
+            "tiempo": "Lo ves en 35 minutos"
+          }
+        ]
+      }
+    ],
+    "video": "https://www.youtube.com/embed/jqpwzrEnn_w?showinfo=0&rel=0",
+    "teachers": [
+      {
+        "plataforma": "platzi",
+        "nombre": "Leonidas Esteban",
+        "twitter": "@LeonidasEsteban",
+        "twitter_link": "//twitter.com/LeonidasEsteban",
+        "label": "Frontend  en Platzi ",
+        "figure": "https://static.platzi.com/media/teachers/LeonidasEsteban.jpg"
+      }
+    ]
+  }
+]
